@@ -2,7 +2,7 @@
 
 # Hi, I'm Xun Gu 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Master+of+Computer+Science+Student;Full-stack+Developer;Cybersecurity+Learner;AI-assisted+Coding+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Master+of+Computer+Science+Student;Full-stack+Developer;AI-assisted+Coding+Explorer" />
 
 ---
 
