@@ -1,8 +1,8 @@
 # Hi there, I'm Xun Gu 👋
 
 🎓 Master of Computer Science student at the University of Sydney  
-💻 Full-stack Developer | Cybersecurity Learner | AI-assisted Security Researcher  
-🚀 Interested in building practical software, auditing real-world systems, and learning by doing  
+💻 Full-stack Developer
+🚀 Interested in building practical software and learning by doing  
 
 ---
 
